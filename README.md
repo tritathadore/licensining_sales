@@ -1,2 +1,2 @@
 # licensing_sales
-Marketing hub and busib=ness Repo for dd7 ilicesnsing
+Marketing hub and busisness Repo for dd7 ilicesnsing
